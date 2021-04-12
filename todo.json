@@ -1,0 +1,20 @@
+{
+    "Mario_Rodriguez": {
+        "personal": [
+            "Wake up early",
+            "Exercise",
+            "Get a life"
+        ],
+        "work": [
+            "Create local dev environment",
+            "Create tiny microservice",
+            "Build docker container",
+            "Create AWS ECR repo with default scanning",
+            "Deploy container to ECR repo",
+            "Create pipeline to build, test and upload",
+            "Deploy to Kubernetes",
+            "Profit"
+
+        ]
+    }
+}

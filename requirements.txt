@@ -1,0 +1,6 @@
+wheel
+Flask
+requests
+#dev/troubleshooting
+#httpie
+#ipython
