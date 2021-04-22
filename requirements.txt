@@ -1,6 +1,7 @@
 wheel
 Flask
 requests
+pylint
 #dev/troubleshooting
 #httpie
 #ipython
