@@ -50,7 +50,7 @@ workflows:
           create-repo: true
           dockerfile: Dockerfile
           no-output-timeout: 10m
-          path: ~/app/
+          path: ~/circleci/project
           repo: capstone
           skip-when-tags-exist: false
           tag: ${CIRCLE_SHA1}
