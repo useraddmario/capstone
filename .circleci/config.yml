@@ -39,7 +39,7 @@ jobs:
 workflows:
   build_and_deploy:
     jobs:
-      - lint:
+      - lint
       - aws-ecr/build-and-push-image:
           name: build_and_push
           account-url: AWS_ECR_ACCOUNT_URL
