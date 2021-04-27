@@ -54,4 +54,5 @@ workflows:
           repo: capstone
           skip-when-tags-exist: false
           tag: ${CIRCLE_SHA1}
-
+          requires:
+            - lint
